@@ -17,7 +17,7 @@
    inkscape:label="Parcours"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/Klasse7_rc1.png"
+   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/KlasseE_rc1.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      inkscape:window-height="713"
@@ -34,11 +34,11 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="518.02401"
-     inkscape:cy="353.8955"
+     inkscape:cx="370.23233"
+     inkscape:cy="382.17977"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:current-layer="Klasse7_rc1"
+     inkscape:current-layer="KlasseE"
      inkscape:object-bbox="false"
      inkscape:object-points="false"
      inkscape:guide-points="true"
@@ -55,6 +55,38 @@
        orientation="1,0"
        position="977.14362,290.63759"
        id="guide3343" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="173.24116,523.259"
+       id="guide3310" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="174.65537,512.6524"
+       id="guide3312" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="480.12549,499.92448"
+       id="guide3314" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="357.08891,417.9001"
+       id="guide3316" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="605.28339,393.85847"
+       id="guide3318" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="729.73418,453.25543"
+       id="guide3320" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="367.69552,250.31579"
+       id="guide3322" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="605.28339,237.58787"
+       id="guide3324" />
   </sodipodi:namedview>
   <defs
      id="defs15341">
@@ -829,22 +861,23 @@
      inkscape:groupmode="layer"
      id="steg_oben"
      inkscape:label="Steg-oben"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,15.72196)"
      sodipodi:insensitive="true">
     <g
-       style="opacity:1;display:inline"
+       style="display:inline"
        id="g2729"
        transform="translate(-14.70384,-276.0285)">
       <path
          id="path2731"
-         d="M 35.915182,601.75454 L 141.25017,601.75454 L 141.25017,567.53252 L 35.915182,567.53252 L 35.915182,601.75454 z "
-         style="fill:none;stroke:#000000;stroke-width:1.08307254" />
+         d="m 35.915182,601.75454 105.334988,0 0,-34.22202 -105.334988,0 0,34.22202 z"
+         style="fill:none;stroke:#000000;stroke-width:1.08307254"
+         inkscape:connector-curvature="0" />
       <text
          id="text2733"
          y="587.74902"
          x="73.573891"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial Black"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial Black"
          xml:space="preserve"><tspan
            y="587.74902"
            x="73.573891"
@@ -852,14 +885,16 @@
            sodipodi:role="line">Steg</tspan></text>
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:url(#Arrow1Lend);marker-end:url(#Arrow1Lend);stroke-opacity:1"
-       d="M 47.047618,328.18448 C 105.85714,328.18448 68.219046,328.18448 105.85714,328.18448 C 163.02,328.18448 126.5581,419.46591 197.6,419.46591"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#Arrow1Lend);marker-end:url(#Arrow1Lend)"
+       d="m 47.047618,328.18448 c 58.809522,0 21.171428,0 58.809522,0 57.16286,0 20.70096,91.28143 91.74286,91.28143"
        id="path3360"
-       sodipodi:nodetypes="csc" />
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Lend);marker-mid:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 126.5581,390.76686 C 126.5581,390.76686 67.042856,390.76686 47.047618,390.76686 C 27.05238,390.76686 20.230476,376.76674 20.230476,359.47448 C 20.230476,342.18222 27.05238,328.18448 47.047618,328.18448"
-       id="path2450" />
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker-start:url(#Arrow1Lend);marker-mid:url(#Arrow1Lend)"
+       d="m 126.5581,390.76686 c 0,0 -59.515244,0 -79.510482,0 -19.995238,0 -26.817142,-14.00012 -26.817142,-31.29238 0,-17.29226 6.821904,-31.29 26.817142,-31.29"
+       id="path2450"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -916,14 +951,13 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="Klasse1"
-     inkscape:label="Klasse 1"
-     style="opacity:1;display:none"
-     transform="translate(-32.46755,-225.851)"
-     sodipodi:insensitive="true">
+     id="KlasseE"
+     inkscape:label="Klasse E RC1"
+     style="display:inline"
+     transform="translate(-32.46755,-225.851)">
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Comic Sans MS"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
        x="558.35858"
        y="307.50226"
        id="text3565"><tspan
@@ -941,10 +975,10 @@
          x="558.35858"
          y="397.50226"
          id="tspan3571"
-         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">Klasse 1</tspan></text>
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">Klasse E</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Comic Sans MS"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
        x="228.17746"
        y="821.35681"
        id="text3645"><tspan
@@ -961,14 +995,73 @@
          y="866.35681"
          id="tspan3651">anlegen und an der Klampe mit Kopfschlag belegen.</tspan></text>
     <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 953.13871,629.30976 0,0 c 0,16.26798 -14.10325,24.82782 -29.90625,24.82782 -11.90335,0 -19.63992,-17.71484 -37.35937,-17.71484 -14.75302,-0.14221 -24.80033,-7.06007 -35.48438,-14.17305 -14.75621,-9.82406 -38.18219,-47.39326 -53.0625,-84.55034 -10.62995,-26.54368 -5.53331,-80.40627 -35.12448,-80.40627 -29.59117,0 -35.62748,75.53113 -49.32164,129.41187 -11.33549,44.60035 -38.67048,145.65266 -75.12915,144.94555 -36.45867,-0.70711 -51.03266,-82.65892 -63.63365,-141.41001 -9.15659,-42.69188 -18.10509,-132.94741 -61.6428,-132.94741 -43.53771,0 -40.05879,95.44531 -50.99384,144.04588 -10.88023,48.35696 -33.32654,127.31513 -71.62319,130.31154 -24.82478,0.3505 -88.13795,-61.46708 -159.49483,-70.45042"
+       id="path3653"
+       sodipodi:nodetypes="ccscsszszszscs"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 159.02564,632.33986 c 23.28857,0 61.08349,-0.85214 117.61905,18.34857 35.52885,12.06637 88.01974,69.44332 112.91177,68.94126 24.75072,-0.49921 50.28168,-72.91901 56.9517,-115.24707 9.50848,-60.34098 11.58092,-157.69614 66.08488,-157.69614 54.50396,0 59.54082,85.05528 68.64497,129.41187 10.33813,50.36871 29.60396,143.53134 56.51293,143.53134 26.90897,0 38.21654,-88.39775 58.17144,-132.21763 21.48886,-47.1884 27.44306,-138.45485 66.27935,-140.72558 36.52647,0 35.12363,64.46919 45.87448,91.01287 15.29261,37.75725 39.52977,68.9047 52.99655,77.37573 10.40954,6.54791 13.9349,7.17461 24.80033,7.17461 17.71946,-10e-6 26.77459,-17.71367 40.04687,-17.71367 13.1155,0 27.21875,10.53906 27.21875,24.77374"
+       id="path3655"
+       sodipodi:nodetypes="cssszszacssssc"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Klasse1"
+     inkscape:label="Klasse 1"
+     style="opacity:1;display:none"
+     transform="translate(-32.46755,-225.851)"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Comic Sans MS"
+       x="558.35858"
+       y="307.50226"
+       id="text176"><tspan
+         sodipodi:role="line"
+         id="tspan178"
+         x="558.35858"
+         y="307.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">DMYV-Jugend</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="352.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan180">Motorboot-Slalom</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="397.50226"
+         id="tspan182"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">Klasse 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Comic Sans MS"
+       x="228.17746"
+       y="821.35681"
+       id="text184"><tspan
+         sodipodi:role="line"
+         id="tspan186"
+         x="228.17746"
+         y="821.35681">Ablegen - Startlinie - Tonnentore 1 - 2 - 3 - 4 - vorwärts durch das Tor 5 - </tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="843.85681"
+         id="tspan188">kreisen und vorwärts wieder in den Parcours durch die Tore 5 - 4 - 3 - 2 - 1 - Ziellinie - </tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="866.35681"
+         id="tspan190">anlegen und an der Klampe mit Kopfschlag belegen.</tspan></text>
+    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline"
        d="M 953.13871,629.30976 C 953.13871,629.30976 953.13871,629.30976 953.13871,629.30976 C 953.13871,645.57774 939.03546,654.13758 923.23246,654.13758 C 911.32911,654.13758 903.59254,636.42274 885.87309,636.42274 C 871.12007,636.28053 861.07276,629.36267 850.38871,622.24969 C 835.6325,612.42563 812.20652,574.85643 797.32621,537.69935 C 786.69626,511.15567 761.88873,511.16809 761.88871,511.1681 C 761.88871,511.1681 737.08113,511.15567 726.45121,537.69935 C 711.59951,574.78501 706.14857,606.42006 683.88871,643.9806 C 673.30745,661.83504 660.91235,688.23061 637.88871,688.2306 C 614.86506,688.2306 602.44199,670.67896 591.79496,643.9806 C 575.62275,603.42736 564.16753,574.77286 549.29496,537.69935 C 538.64658,511.15567 513.88872,511.16809 513.88871,511.1681 C 513.88871,511.1681 489.03,511.15567 478.45121,537.69935 C 464.20267,573.45098 451.83507,603.5242 436.04496,643.9806 C 425.28341,670.67897 425.27114,687.73061 389.85746,688.2306 C 365.03268,688.5811 301.71951,670.18342 230.36263,661.20008"
-       id="path3653"
+       id="path192"
        sodipodi:nodetypes="ccscsscssssscscss" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1;display:inline"
        d="M 159.02564,632.33986 C 182.31421,632.33986 218.30565,637.98041 276.64469,650.68843 C 364.49944,669.82587 364.93418,670.67016 389.82621,670.1681 C 414.57693,669.66889 417.38177,663.06375 425.29496,643.9806 C 452.19345,579.11326 451.15644,579.55633 467.85746,537.69935 C 478.44844,511.15567 490.90775,493.48061 513.88871,493.4806 L 513.88871,493.4806 C 536.86968,493.4806 549.31205,511.15567 559.79496,537.69935 C 576.36024,579.64426 582.61563,610.92417 602.45121,643.9806 C 613.08115,661.69563 620.17212,670.6681 637.88871,670.6681 C 655.60529,670.6681 662.66504,661.69562 673.29496,643.9806 C 693.11436,610.95114 698.77318,579.50293 715.70121,537.69935 C 726.44988,511.15567 738.79728,493.48061 761.88871,493.4806 C 784.98017,493.4806 797.32536,511.15567 808.07621,537.69935 C 823.36882,575.4566 847.60598,606.60405 861.07276,615.07508 C 871.4823,621.62299 875.00766,622.24969 885.87309,622.24969 C 903.59255,622.24968 912.64768,604.53602 925.91996,604.53602 C 939.03546,604.53602 953.13871,615.07508 953.13871,629.30976"
-       id="path3655"
+       id="path194"
        sodipodi:nodetypes="cssssccssssssssssc" />
   </g>
   <g
@@ -1554,7 +1647,7 @@
      inkscape:groupmode="layer"
      id="Klasse7_rc1"
      inkscape:label="Klasse 7 RC1"
-     style="display:inline"
+     style="display:none"
      transform="translate(-32.46755,-225.851)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
