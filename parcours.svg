@@ -17,7 +17,7 @@
    inkscape:label="Parcours"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/Klasse7_rc2.png"
+   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/Klasse7_rc5.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      inkscape:window-height="713"
@@ -34,11 +34,11 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="612.55042"
-     inkscape:cy="325.61123"
+     inkscape:cx="570.64321"
+     inkscape:cy="332.49828"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:current-layer="Klasse7_rc2"
+     inkscape:current-layer="g3413"
      inkscape:object-bbox="false"
      inkscape:object-points="false"
      inkscape:guide-points="true"
@@ -49,11 +49,11 @@
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="0,1"
-       position="1088.3877,272.59801"
+       position="415.77878,272.94321"
        id="guide3341" />
     <sodipodi:guide
        orientation="1,0"
-       position="977.14362,290.63759"
+       position="977.22155,250.31579"
        id="guide3343" />
     <sodipodi:guide
        orientation="0,1"
@@ -1656,7 +1656,8 @@
      id="Klasse7_rc1"
      inkscape:label="Klasse 7 RC1"
      style="display:none"
-     transform="translate(-32.46755,-225.851)">
+     transform="translate(-32.46755,-225.851)"
+     sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
        d="m 159.02564,632.33986 c 23.28856,0 41.50555,10.46704 138.38124,29.17321 96.8757,18.70617 151.33841,18.20588 218.47011,50.46482 67.1317,32.25895 361.83838,15.31721 467.57684,17.59742 54.58747,1.17715 45.80307,-62.17707 46.24787,-121.27254 C 1030.577,492.02419 1001.2086,498.5133 939.03546,471.98194 819.76648,414.222 491.00693,404.73741 457.33717,462.32509 c -64.02535,88.82276 -120.66831,74.88503 -120.66831,48.75421 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-32.52548 16.2996,-77.86952 11.68074,-45.19195 17.40491,-99.27 64.23582,-99.27 46.8287,0 50.13149,59.63183 61.71458,99.27 11.58308,39.63818 24.6994,77.9 62.3302,77.9 37.6308,0 43.70598,-31.28839 60.3342,-77.9 16.46989,-46.16779 30.09039,-99.27 63.68183,-99.27 33.09144,0 36.43314,18.74685 47.18399,45.29053 15.29261,37.75725 40.09068,60.4976 52.02884,68.00707 11.93816,7.50947 38.30264,14.23468 51.57492,14.23468 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
@@ -1752,10 +1753,11 @@
   </g>
   <g
      transform="translate(-32.46755,-225.851)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Klasse 7 RC2"
      id="Klasse7_rc2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzssccsssszzzzzzzzzzszszsc"
@@ -1848,5 +1850,304 @@
          y="397.50226"
          x="558.35858"
          sodipodi:role="line">Klasse 7 rc2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Klasse7_rc3"
+     inkscape:label="Klasse 7 RC3"
+     style="display:none"
+     transform="translate(-32.46755,-225.851)"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 159.02564,632.33986 c 23.28856,0 78.27509,6.93151 110.09697,26.34478 155.65188,-1.61819 306.01119,75.92069 439.9738,60.94505 54.20361,-6.56851 118.83501,-81.76435 177.76972,-77.3858 186.13727,13.82907 164.36597,-160.9278 52.16933,-170.26195 -112.19666,-9.33415 -445.2001,-45.32422 -481.69829,-9.65685 -64.02535,88.82276 -120.66831,74.88503 -120.66831,48.75421 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-32.52548 16.2996,-77.86952 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 50.04206,67.92883 61.62515,107.567 11.58308,39.63818 24.6994,68.00051 62.3302,68.00051 37.6308,0 51.93212,-38.88593 60.3342,-68.00051 15.43442,-53.48276 16.29005,-107.567 64.02363,-107.567 47.73358,0 53.76901,32.7007 64.51986,59.24438 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       id="path3331"
+       sodipodi:nodetypes="cccszcsssszzzzzzzzzzszszsc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.29964,-112.19321 -88.18698,-112.59871 -37.88734,-0.4055 -50.92901,76.42429 -55.71602,102.41054 -4.78701,25.98626 -26.06899,74.01609 -68.73477,74.72319 -42.66578,0.7071 -57.17403,-22.10417 -68.61465,-65.53081 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.9929,53.61264 -53.82591,89.94875 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.21082,-22.21027 -159.19383,-22.0491"
+       id="path3333"
+       sodipodi:nodetypes="csczzzzzczs"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none"
+       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
+       id="path3335"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       x="228.17746"
+       y="821.35681"
+       id="text3337"><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="821.35681"
+         id="tspan3339">Ablegen - Startlinie - in den Parcours, d.h. außen um die Tore 1 - 2 - 3 - 4 -</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="843.85681"
+         id="tspan3341">rückwärts durch das Tor 5 - vorwärts wieder in den Parcours, d.h. durch die Tore</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="866.35681"
+         id="tspan3343">4 - 3 - 2 - schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="888.85681"
+         id="tspan3345">Schikane an der Tonne 6 - Temporunde: <tspan
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6"
+   id="tspan3347">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="911.35681"
+         id="tspan3349">Tonne 7, <tspan
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6"
+   id="tspan3351">innen</tspan> an den Toren 4 und 2 vorbei - Ziellinie - anlegen.</tspan></text>
+    <g
+       id="g3353"
+       transform="translate(17.76371,129.7306)">
+      <text
+         id="text3355"
+         y="429.87863"
+         x="717.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         xml:space="preserve"><tspan
+           y="429.87863"
+           x="717.09253"
+           id="tspan3357"
+           sodipodi:role="line">Tempo -</tspan></text>
+      <text
+         id="text3359"
+         y="432.81418"
+         x="834.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         xml:space="preserve"><tspan
+           y="432.81418"
+           x="834.09253"
+           id="tspan3361"
+           sodipodi:role="line">Runde</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       x="558.35858"
+       y="307.50226"
+       id="text3363"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="558.35858"
+         y="307.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">DMYV-Jugend</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="352.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3367">Motorboot-Slalom</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="397.50226"
+         id="tspan3369"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">Klasse 7 rc3</tspan></text>
+  </g>
+  <g
+     transform="translate(-32.46755,-225.851)"
+     style="display:none"
+     inkscape:label="Klasse 7 RC4"
+     id="g3371"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzsszcsssszzzzzzzzzzszszsc"
+       id="path3373"
+       d="m 159.02564,632.33986 c 23.28856,0 98.7812,9.75993 146.86652,20.68793 48.08533,10.92799 69.31402,12.06074 136.44572,44.31968 67.1317,32.25895 161.72717,35.01014 266.75853,22.28222 54.20361,-6.56851 118.83501,-81.76435 177.76972,-77.3858 186.13727,13.82907 164.36597,-160.9278 52.16933,-170.26195 -112.19666,-9.33415 -445.2001,-45.32422 -481.69829,-9.65685 -64.02535,88.82276 -120.66831,74.88503 -120.66831,48.75421 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-32.52548 16.2996,-77.86952 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 50.04206,67.92883 61.62515,107.567 11.58308,39.63818 24.6994,68.00051 62.3302,68.00051 37.6308,0 51.93212,-38.88593 60.3342,-68.00051 15.43442,-53.48276 16.29005,-107.567 64.02363,-107.567 47.73358,0 53.76901,32.7007 64.51986,59.24438 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csczzzzzczs"
+       id="path3375"
+       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.29964,-112.19321 -88.18698,-112.59871 -37.88734,-0.4055 -50.92901,76.42429 -55.71602,102.41054 -4.78701,25.98626 -26.06899,74.01609 -68.73477,74.72319 -42.66578,0.7071 -57.17403,-22.10417 -68.61465,-65.53081 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.9929,53.61264 -53.82591,89.94875 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.21082,-22.21027 -159.19383,-22.0491"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3377"
+       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none" />
+    <text
+       id="text3379"
+       y="821.35681"
+       x="228.17746"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       xml:space="preserve"><tspan
+         id="tspan3381"
+         y="821.35681"
+         x="228.17746"
+         sodipodi:role="line">Ablegen - Startlinie - in den Parcours, d.h. außen um die Tore 1 - 2 - 3 - 4 -</tspan><tspan
+         id="tspan3383"
+         y="843.85681"
+         x="228.17746"
+         sodipodi:role="line">rückwärts durch das Tor 5 - vorwärts wieder in den Parcours, d.h. durch die Tore</tspan><tspan
+         id="tspan3385"
+         y="866.35681"
+         x="228.17746"
+         sodipodi:role="line">4 - 3 - 2 - schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
+         id="tspan3387"
+         y="888.85681"
+         x="228.17746"
+         sodipodi:role="line">Schikane an der Tonne 6 - Temporunde: <tspan
+   id="tspan3389"
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
+         id="tspan3391"
+         y="911.35681"
+         x="228.17746"
+         sodipodi:role="line">Tonne 7, <tspan
+   id="tspan3393"
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6">innen</tspan> an den Toren 4 und 2 vorbei - Ziellinie - anlegen.</tspan></text>
+    <g
+       transform="translate(17.76371,129.7306)"
+       id="g3395">
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         x="717.09253"
+         y="429.87863"
+         id="text3397"><tspan
+           sodipodi:role="line"
+           id="tspan3399"
+           x="717.09253"
+           y="429.87863">Tempo -</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         x="834.09253"
+         y="432.81418"
+         id="text3401"><tspan
+           sodipodi:role="line"
+           id="tspan3403"
+           x="834.09253"
+           y="432.81418">Runde</tspan></text>
+    </g>
+    <text
+       id="text3405"
+       y="307.50226"
+       x="558.35858"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       xml:space="preserve"><tspan
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         y="307.50226"
+         x="558.35858"
+         id="tspan3407"
+         sodipodi:role="line">DMYV-Jugend</tspan><tspan
+         id="tspan3409"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         y="352.50226"
+         x="558.35858"
+         sodipodi:role="line">Motorboot-Slalom</tspan><tspan
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3411"
+         y="397.50226"
+         x="558.35858"
+         sodipodi:role="line">Klasse 7 rc4</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3413"
+     inkscape:label="Klasse 7 RC5"
+     style="display:inline"
+     transform="translate(-32.46755,-225.851)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 159.02564,632.33986 c 23.28856,0 98.7812,9.75993 146.86652,20.68793 48.08533,10.92799 -8.46772,47.07088 58.66398,79.32982 67.1317,32.25895 239.50891,0 344.54027,-12.72792 54.20361,-6.56851 88.94022,-157.73257 143.12149,-181.33049 82.36132,-35.87138 166.086,-34.91922 176.5631,-12.4738 10.4771,22.44543 -91.76505,96.59873 -145.60697,91.82053 -53.84192,-4.7782 -29.77281,-155.92744 -81.42081,-160.35285 -141.61974,-12.13453 -327.57097,-10.49717 -354.31554,15.63861 -64.02535,88.82276 -110.76882,64.27843 -110.76882,38.14761 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-32.52548 16.2996,-77.86952 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 50.04206,67.92883 61.62515,107.567 11.58308,39.63818 24.6994,68.00051 62.3302,68.00051 37.6308,0 51.93212,-38.88593 60.3342,-68.00051 15.43442,-53.48276 16.29005,-107.567 64.02363,-107.567 47.73358,0 53.76901,32.7007 64.51986,59.24438 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       id="path3415"
+       sodipodi:nodetypes="czzsszzscsssszzzzzzzzzzszszsc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.29964,-112.19321 -88.18698,-112.59871 -37.88734,-0.4055 -50.92901,76.42429 -55.71602,102.41054 -4.78701,25.98626 -26.06899,74.01609 -68.73477,74.72319 -42.66578,0.7071 -57.17403,-22.10417 -68.61465,-65.53081 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.9929,53.61264 -53.82591,89.94875 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.21082,-22.21027 -159.19383,-22.0491"
+       id="path3417"
+       sodipodi:nodetypes="csczzzzzczs"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none"
+       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
+       id="path3419"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       x="228.17746"
+       y="821.35681"
+       id="text3421"><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="821.35681"
+         id="tspan3423">Ablegen - Startlinie - in den Parcours, d.h. außen um die Tore 1 - 2 - 3 - 4 -</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="843.85681"
+         id="tspan3425">rückwärts durch das Tor 5 - vorwärts wieder in den Parcours, d.h. durch die Tore</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="866.35681"
+         id="tspan3427">4 - 3 - 2 - schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="888.85681"
+         id="tspan3429">Schikane an der Tonne 6 - Temporunde: <tspan
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6"
+   id="tspan3431">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
+         sodipodi:role="line"
+         x="228.17746"
+         y="911.35681"
+         id="tspan3433">Tonne 7, <tspan
+   style="font-size:18px;font-weight:bold;fill:#e6e6e6"
+   id="tspan3435">innen</tspan> an den Toren 4 und 2 vorbei - Ziellinie - anlegen.</tspan></text>
+    <g
+       id="g3437"
+       transform="translate(17.76371,129.7306)">
+      <text
+         id="text3439"
+         y="429.87863"
+         x="717.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         xml:space="preserve"><tspan
+           y="429.87863"
+           x="717.09253"
+           id="tspan3441"
+           sodipodi:role="line">Tempo -</tspan></text>
+      <text
+         id="text3443"
+         y="432.81418"
+         x="834.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Comic Sans MS"
+         xml:space="preserve"><tspan
+           y="432.81418"
+           x="834.09253"
+           id="tspan3445"
+           sodipodi:role="line">Runde</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
+       x="558.35858"
+       y="307.50226"
+       id="text3447"><tspan
+         sodipodi:role="line"
+         id="tspan3449"
+         x="558.35858"
+         y="307.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle">DMYV-Jugend</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="352.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3451">Motorboot-Slalom</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="397.50226"
+         style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3455">Klasse 7 rc5</tspan></text>
   </g>
 </svg>
