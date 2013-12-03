@@ -17,7 +17,7 @@
    inkscape:label="Parcours"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/Klasse7_rc5.png"
+   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/KlasseE_rc1.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      inkscape:window-height="713"
@@ -34,11 +34,11 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="570.64321"
-     inkscape:cy="332.49828"
+     inkscape:cx="636.55779"
+     inkscape:cy="502.2039"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:current-layer="g3413"
+     inkscape:current-layer="KlasseErc1"
      inkscape:object-bbox="false"
      inkscape:object-points="false"
      inkscape:guide-points="true"
@@ -953,9 +953,8 @@
      inkscape:groupmode="layer"
      id="KlasseErc1"
      inkscape:label="Klasse E RC1"
-     style="display:none"
-     transform="translate(-32.46755,-225.851)"
-     sodipodi:insensitive="true">
+     style="display:inline"
+     transform="translate(-32.46755,-225.851)">
     <text
        xml:space="preserve"
        style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Comic Sans MS"
@@ -986,15 +985,18 @@
          sodipodi:role="line"
          id="tspan3647"
          x="228.17746"
-         y="821.35681">Ablegen - Startlinie - Tonnentore 1 - 2 - 3 - 4 - vorwärts durch das Tor 5 - </tspan><tspan
+         y="821.35681"
+         style="fill:#000000">Ablegen - Startlinie - außen um die Tore 1 - 2 - 3 - 4 - vorwärts durch das Tor 5 - </tspan><tspan
          sodipodi:role="line"
          x="228.17746"
          y="843.85681"
-         id="tspan3649">kreisen und vorwärts wieder in den Parcours durch die Tore 5 - 4 - 3 - 2 - 1 - Ziellinie - </tspan><tspan
+         id="tspan3649"
+         style="fill:#000000">kreisen und vorwärts wieder in den Parcours durch das Tore 5,</tspan><tspan
          sodipodi:role="line"
          x="228.17746"
          y="866.35681"
-         id="tspan3651">anlegen und an der Klampe mit Kopfschlag belegen.</tspan></text>
+         id="tspan3651"
+         style="fill:#000000">außen um die Tore- 4 - 3 - 2 - 1 - Ziellinie - anlegen und an der Klampe mit Kopfschlag belegen.</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
        d="m 953.13871,629.30976 0,0 c 0,16.26798 -14.10325,24.82782 -29.90625,24.82782 -11.90335,0 -19.63992,-17.71484 -37.35937,-17.71484 -14.75302,-0.14221 -24.80033,-7.06007 -35.48438,-14.17305 -14.75621,-9.82406 -45.60824,-52.12214 -53.0625,-84.55034 -6.59437,-28.68744 -1.29067,-80.40627 -35.12448,-80.40627 -33.83381,0 -35.62748,75.53113 -49.32164,129.41187 -11.33549,44.60035 -28.06388,145.65266 -75.12915,145.65266 -47.06527,0 -51.03266,-83.36603 -63.63365,-142.11712 -9.15659,-42.69188 -18.10509,-132.94741 -61.6428,-132.94741 -43.53771,0 -40.05879,95.44531 -50.99384,144.04588 -10.88023,48.35696 -33.32654,127.31513 -71.62319,130.31154 -24.82478,0.3505 -88.13795,-61.46708 -159.49483,-70.45042"
@@ -2055,7 +2057,7 @@
      inkscape:groupmode="layer"
      id="g3413"
      inkscape:label="Klasse 7 RC5"
-     style="display:inline"
+     style="display:none"
      transform="translate(-32.46755,-225.851)">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
