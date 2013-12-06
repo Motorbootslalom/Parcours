@@ -17,7 +17,7 @@
    inkscape:label="Parcours"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/KlasseE_rc1.png"
+   inkscape:export-filename="/home/matthias/Downloads/html5/git/docs/Klasse7_rc5.png"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <sodipodi:namedview
      inkscape:window-height="713"
@@ -33,9 +33,9 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="33.132727"
-     inkscape:cy="394.26184"
+     inkscape:zoom="0.72302646"
+     inkscape:cx="334.62517"
+     inkscape:cy="372.04724"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
      inkscape:current-layer="Parcours"
@@ -445,11 +445,11 @@
            sodipodi:cy="521.45618"
            sodipodi:rx="1.7716577"
            sodipodi:ry="2.1653595"
-           d="m 394.98122,521.45618 a 1.7716577,2.1653595 0 1 1 -3.54331,0 1.7716577,2.1653595 0 1 1 3.54331,0 z"
+           d="m 394.98122,521.45618 c 0,1.19589 -0.7932,2.16536 -1.77166,2.16536 -0.97846,0 -1.77165,-0.96947 -1.77165,-2.16536 0,-1.1959 0.79319,-2.16536 1.77165,-2.16536 0.97846,0 1.77166,0.96946 1.77166,2.16536 z"
            transform="matrix(4.72439,0,0,3.865411,-1521.061,-1636.509)" />
         <path
            transform="matrix(0.58334,0,0,0.673644,140.1598,128.3338)"
-           d="m 347.22087,372.30341 a 10.445539,9.0452852 0 1 1 -20.89108,0 10.445539,9.0452852 0 1 1 20.89108,0 z"
+           d="m 347.22087,372.30341 c 0,4.99557 -4.67663,9.04528 -10.44554,9.04528 -5.76891,0 -10.44554,-4.04971 -10.44554,-9.04528 0,-4.99558 4.67663,-9.04529 10.44554,-9.04529 5.76891,0 10.44554,4.04971 10.44554,9.04529 z"
            sodipodi:ry="9.0452852"
            sodipodi:rx="10.445539"
            sodipodi:cy="372.30341"
@@ -459,7 +459,7 @@
            sodipodi:type="arc" />
         <path
            transform="matrix(0.999998,0,0,1.154803,-0.160332,-50.80338)"
-           d="m 347.22087,372.30341 a 10.445539,9.0452852 0 1 1 -20.89108,0 10.445539,9.0452852 0 1 1 20.89108,0 z"
+           d="m 347.22087,372.30341 c 0,4.99557 -4.67663,9.04528 -10.44554,9.04528 -5.76891,0 -10.44554,-4.04971 -10.44554,-9.04528 0,-4.99558 4.67663,-9.04529 10.44554,-9.04529 5.76891,0 10.44554,4.04971 10.44554,9.04529 z"
            sodipodi:ry="9.0452852"
            sodipodi:rx="10.445539"
            sodipodi:cy="372.30341"
@@ -987,7 +987,7 @@
      inkscape:groupmode="layer"
      id="KlasseErc1"
      inkscape:label="Klasse E RC1"
-     style="display:none"
+     style="display:inline"
      transform="translate(-32.46755,-225.851)">
     <text
        xml:space="preserve"
