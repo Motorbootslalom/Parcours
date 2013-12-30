@@ -35,7 +35,7 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4460529"
-     inkscape:cx="331.47522"
+     inkscape:cx="248.4907"
      inkscape:cy="387.87837"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
@@ -203,22 +203,24 @@
         </dc:publisher>
         <dc:title>Schlauchbootslalom Parcours</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Reproduction" />
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/Distribution" />
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/Notice" />
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
         <cc:permits
-           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
         <cc:requires
-           rdf:resource="http://web.resource.org/cc/ShareAlike" />
-        <cc:requires
-           rdf:resource="http://web.resource.org/cc/SourceCode" />
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
       </cc:License>
     </rdf:RDF>
   </metadata>
