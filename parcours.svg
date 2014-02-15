@@ -39,7 +39,7 @@
      inkscape:cy="336.65676"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:current-layer="Parcours"
+     inkscape:current-layer="Klasse7"
      inkscape:object-bbox="false"
      inkscape:object-points="false"
      inkscape:guide-points="true"
@@ -1690,7 +1690,7 @@
   </g>
   <g
      transform="translate(0,15.72196)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Steg-unten"
      id="steg_unten"
      inkscape:groupmode="layer">
@@ -2422,7 +2422,7 @@
   </g>
   <g
      transform="translate(-32.46755,-225.851)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Klasse 6 Möwe"
      id="Klasse6_Moewe"
      inkscape:groupmode="layer">
