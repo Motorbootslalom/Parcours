@@ -15,13 +15,13 @@
    inkscape:label="Parcours"
    version="1.0"
    sodipodi:docname="parcours.svg"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:version="0.32"
    id="Parcourse"
    height="744.09448"
    width="1052.3622">
   <sodipodi:namedview
-     inkscape:window-height="713"
+     inkscape:window-height="721"
      inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -34,12 +34,12 @@
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.72302644"
-     inkscape:cx="501.45495"
-     inkscape:cy="306.18529"
+     inkscape:zoom="1.159644"
+     inkscape:cx="308.18975"
+     inkscape:cy="386.2154"
      inkscape:window-x="-3"
      inkscape:window-y="-3"
-     inkscape:current-layer="KlasseE"
+     inkscape:current-layer="Klasse7_Moewe_2014"
      inkscape:object-bbox="false"
      inkscape:object-points="false"
      inkscape:guide-points="true"
@@ -2409,140 +2409,16 @@
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="Klasse7_Moewe"
-     inkscape:label="Klasse 7 Möwe"
-     style="display:none"
-     transform="translate(-32.46755,-225.851)">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
-       d="m 159.02565,574.33982 c 23.28856,0 83.66427,-10.64394 137.50876,39.35765 53.8445,50.00159 145.94999,90.11082 217.22248,105.93222 71.27249,15.8214 301.88789,-0.77205 352.30334,-13.01413 53.05826,-12.88382 95.42598,-40.6004 95.87078,-99.69587 C 962.80631,490.64111 948.22908,471.1945 915.79206,460.56851 767.4785,442.22622 517.97689,422.02585 463.561,467.85739 c -48.11998,54.24587 -126.89214,69.35273 -126.89214,43.22191 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-65.71929 16.2996,-111.06333 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 56.07871,89.84214 61.62515,140.76081 6.90635,63.40327 -3.23141,114.22869 62.32465,118.58221 31.8177,0 57.46998,-16.85618 60.33975,-118.58221 1.56974,-55.64318 16.29005,-144.91003 64.02363,-144.91003 47.73358,0 53.76901,70.04373 64.51986,96.58741 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
-       id="path3587"
-       sodipodi:nodetypes="czzssccsssszzzzzzzzscszszsc"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
-       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.45932,-120.10755 -88.34666,-120.51305 -37.88734,-0.4055 -50.76933,84.33863 -55.55634,110.32488 -4.78701,25.98626 -25.98158,66.105 -68.64736,66.8121 -42.66578,0.7071 -57.30367,-21.40031 -68.74429,-64.82695 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.95067,60.81987 -53.78368,97.15598 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.5059,-80.37148 -159.48891,-80.21031"
-       id="path3589"
-       sodipodi:nodetypes="csczzzzzczs"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none"
-       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
-       id="path3591"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.98999999;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
-       x="228.17746"
-       y="821.35681"
-       id="text3593"><tspan
-         id="tspan3602"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-         sodipodi:role="line"
-         x="228.17746"
-         y="821.35681">Ablegen - Startlinie - in den Parcours, d.h. innen durch die Tore 1 - 2 - 3 - 4 - rückwärts</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-         sodipodi:role="line"
-         x="228.17746"
-         y="843.85681"
-         id="tspan3688">durch das Tor 5 - vorwärts wieder in den Parcours, d.h. außen um die Tore 4 - 3 - 2 -</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-         sodipodi:role="line"
-         x="228.17746"
-         y="866.35681"
-         id="tspan3698">schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-         sodipodi:role="line"
-         x="228.17746"
-         y="888.85681"
-         id="tspan3604">Schikane an der Tonne 6 - Temporunde: <tspan
-   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-   id="tspan3606">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
-         sodipodi:role="line"
-         x="228.17746"
-         y="911.35681"
-         id="tspan3608">Tonne 7 und außen an Tor 5 und 4 vorbei und innen durch das Tor 2 - Ziellinie - anlegen.</tspan></text>
-    <g
-       id="g3610"
-       transform="translate(17.76371,129.7306)">
-      <text
-         id="text3612"
-         y="429.87863"
-         x="717.09253"
-         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
-         xml:space="preserve"><tspan
-           y="429.87863"
-           x="717.09253"
-           id="tspan3614"
-           sodipodi:role="line">Tempo -</tspan></text>
-      <text
-         id="text3616"
-         y="432.81418"
-         x="834.09253"
-         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
-         xml:space="preserve"><tspan
-           y="432.81418"
-           x="834.09253"
-           id="tspan3618"
-           sodipodi:role="line">Runde</tspan></text>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
-       x="558.35858"
-       y="307.50226"
-       id="text3620"><tspan
-         sodipodi:role="line"
-         id="tspan3622"
-         x="558.35858"
-         y="307.50226"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold">DMYV-Jugend</tspan><tspan
-         sodipodi:role="line"
-         x="558.35858"
-         y="352.50226"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
-         id="tspan3624">Motorboot-Slalom</tspan><tspan
-         sodipodi:role="line"
-         x="558.35858"
-         y="397.50226"
-         id="tspan3626"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold">Klasse 7</tspan></text>
-    <flowRoot
-       transform="translate(32.46755,225.851)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot3628"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3630"><rect
-           y="1.8062121"
-           x="308.0643"
-           height="100.73214"
-           width="195.59639"
-           id="rect3632" /></flowRegion><flowPara
-         id="flowPara3634" /></flowRoot>    <text
-       transform="matrix(0.8660253,-0.50000017,0.50000017,0.8660253,0,0)"
-       id="text2735-7"
-       y="453.01675"
-       x="-52.668709"
-       style="font-size:27.99997139px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
-       xml:space="preserve"><tspan
-         y="453.01675"
-         x="-52.668705"
-         id="tspan2737-4"
-         sodipodi:role="line">Möwe-Parcour</tspan></text>
-  </g>
-  <g
      transform="translate(-32.46755,-225.851)"
      style="display:none"
-     inkscape:label="Klasse 7"
-     id="Klasse7"
+     inkscape:label="Klasse 7 Möwe"
+     id="Klasse7_Moewe"
      inkscape:groupmode="layer">
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzssccsssszzzzzzzzzszzzzszszsc"
        id="path3412"
-       d="m 159.02565,574.33982 c 23.28856,0 83.66427,-10.64394 137.50876,39.35765 53.8445,50.00159 145.94999,90.11082 217.22248,105.93222 71.27249,15.8214 299.12174,12.36717 404.8602,14.64738 54.58742,1.17715 42.86912,-68.26191 43.31392,-127.35738 C 962.80631,490.64111 948.22908,471.1945 915.79206,460.56851 767.4785,442.22622 517.97689,422.02585 463.561,467.85739 c -48.11998,54.24587 -126.89214,69.35273 -126.89214,43.22191 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-65.71929 16.2996,-111.06333 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 55.33651,50.48699 61.62515,140.76081 6.28864,90.27382 25.44255,118.58221 62.3302,117.79122 39.93632,-0.85637 44.01895,-26.02306 45.20202,-39.96508 1.18308,-13.94201 -9.81379,-49.63258 -45.20757,-49.63258 -35.39378,0 -47.27954,32.6964 -46.80091,49.63258 0.47864,16.93618 14.98321,40.75607 46.80091,40.75607 31.8177,0 57.46998,-16.85618 60.33975,-118.58221 1.56974,-55.64318 16.29005,-144.91003 64.02363,-144.91003 47.73358,0 53.76901,70.04373 64.51986,96.58741 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       d="m 159.02565,574.33982 c 23.28856,0 83.66427,-10.64394 137.50876,39.35765 53.8445,50.00159 145.94999,90.11082 217.22248,105.93222 71.27249,15.8214 248.28516,6.10026 352.30334,-13.01413 53.70096,-9.86809 95.42598,-40.6004 95.87078,-99.69587 C 962.80631,490.64111 948.22908,471.1945 915.79206,460.56851 767.4785,442.22622 517.97689,422.02585 463.561,467.85739 c -48.11998,54.24587 -126.89214,69.35273 -126.89214,43.22191 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-65.71929 16.2996,-111.06333 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 55.33651,50.48699 61.62515,140.76081 6.28864,90.27382 25.44255,118.58221 62.3302,117.79122 39.93632,-0.85637 44.01895,-26.02306 45.20202,-39.96508 1.18308,-13.94201 -9.81379,-49.63258 -45.20757,-49.63258 -35.39378,0 -47.27954,32.6964 -46.80091,49.63258 0.47864,16.93618 14.98321,40.75607 46.80091,40.75607 31.8177,0 57.46998,-16.85618 60.33975,-118.58221 1.56974,-55.64318 16.29005,-144.91003 64.02363,-144.91003 47.73358,0 53.76901,70.04373 64.51986,96.58741 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
        style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
     <path
        inkscape:connector-curvature="0"
@@ -2581,18 +2457,23 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
          id="tspan3456">außen um Tor 2 - schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
-         id="tspan3426"
+         id="tspan3430"
          y="911.35681"
          x="228.17746"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Schikane an der Tonne 6 - Temporunde: <tspan
    id="tspan3428"
-   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
-         id="tspan3430"
+   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">außen</tspan> an den Toren 2 und 4, um die Tonne 7,</tspan><tspan
          y="933.85681"
          x="228.17746"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Tonne 7 und 8, außen an Tor 4 vorbei und innen durch das Tor 2 - Ziellinie - anlegen.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan3652">zwischen Tor 5 und Tonne 8, außen an Tor 3 vorbei und innen durch das Tor 1 -</tspan><tspan
+         y="956.35681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan3656">Ziellinie - anlegen.</tspan></text>
     <g
        transform="translate(17.76371,129.7306)"
        id="g3434">
@@ -2649,16 +2530,145 @@
            height="100.73214"
            x="308.0643"
            y="1.8062121" /></flowRegion><flowPara
-         id="flowPara3445" /></flowRoot>  </g>
+         id="flowPara3445" /></flowRoot>    <text
+       transform="matrix(0.8660253,-0.50000017,0.50000017,0.8660253,0,0)"
+       id="text2735-7-9"
+       y="453.01675"
+       x="-52.668709"
+       style="font-size:27.99997139px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       xml:space="preserve"><tspan
+         y="453.01675"
+         x="-52.668705"
+         id="tspan2737-4-8"
+         sodipodi:role="line">Möwe-Parcour</tspan></text>
+  </g>
+  <g
+     transform="translate(-32.46755,-225.851)"
+     style="display:none"
+     inkscape:label="Klasse 7"
+     id="Klasse7"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzssccsssszzzzzzzzzszzzzszszsc"
+       id="path520"
+       d="m 159.02565,574.33982 c 23.28856,0 83.66427,-10.64394 137.50876,39.35765 53.8445,50.00159 145.94999,90.11082 217.22248,105.93222 71.27249,15.8214 299.12174,12.36717 404.8602,14.64738 54.58742,1.17715 42.86912,-68.26191 43.31392,-127.35738 C 962.80631,490.64111 948.22908,471.1945 915.79206,460.56851 767.4785,442.22622 517.97689,422.02585 463.561,467.85739 c -48.11998,54.24587 -126.89214,69.35273 -126.89214,43.22191 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-65.71929 16.2996,-111.06333 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 55.33651,50.48699 61.62515,140.76081 6.28864,90.27382 25.44255,118.58221 62.3302,117.79122 39.93632,-0.85637 44.01895,-26.02306 45.20202,-39.96508 1.18308,-13.94201 -9.81379,-49.63258 -45.20757,-49.63258 -35.39378,0 -47.27954,32.6964 -46.80091,49.63258 0.47864,16.93618 14.98321,40.75607 46.80091,40.75607 31.8177,0 57.46998,-16.85618 60.33975,-118.58221 1.56974,-55.64318 16.29005,-144.91003 64.02363,-144.91003 47.73358,0 53.76901,70.04373 64.51986,96.58741 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csczzzzzczs"
+       id="path522"
+       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.45932,-120.10755 -88.34666,-120.51305 -37.88734,-0.4055 -50.76933,84.33863 -55.55634,110.32488 -4.78701,25.98626 -25.98158,66.105 -68.64736,66.8121 -42.66578,0.7071 -57.30367,-21.40031 -68.74429,-64.82695 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.95067,60.81987 -53.78368,97.15598 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.5059,-80.37148 -159.48891,-80.21031"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path524"
+       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none" />
+    <text
+       id="text526"
+       y="821.35681"
+       x="228.17746"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.98999999;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+       xml:space="preserve"><tspan
+         id="tspan528"
+         y="821.35681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Ablegen - Startlinie - in den Parcours, d.h. innen durch die Tore 1 - 2 - 3 - 4 -</tspan><tspan
+         id="tspan530"
+         y="843.85681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">rückwärts durch das Tor 5 - vorwärts wieder in den Parcours, d.h. außen um Tor 4 -</tspan><tspan
+         id="tspan532"
+         y="866.35681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">schnelle Umkreisung des Tores 3 (das Tor 3 bleibt an der Steuerbordseite!) - </tspan><tspan
+         y="888.85681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         id="tspan534">außen um Tor 2 - schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
+         id="tspan536"
+         y="911.35681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Schikane an der Tonne 6 - Temporunde: <tspan
+   id="tspan538"
+   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
+         id="tspan540"
+         y="933.85681"
+         x="228.17746"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana">Tonne 7 und 8, außen an Tor 3 vorbei und innen durch das Tor 1 - Ziellinie - anlegen.</tspan></text>
+    <g
+       transform="translate(17.76371,129.7306)"
+       id="g542">
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
+         x="717.09253"
+         y="429.87863"
+         id="text544"><tspan
+           sodipodi:role="line"
+           id="tspan546"
+           x="717.09253"
+           y="429.87863">Tempo -</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
+         x="834.09253"
+         y="432.81418"
+         id="text548"><tspan
+           sodipodi:role="line"
+           id="tspan550"
+           x="834.09253"
+           y="432.81418">Runde</tspan></text>
+    </g>
+    <text
+       id="text552"
+       y="307.50226"
+       x="558.35858"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+       xml:space="preserve"><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="307.50226"
+         x="558.35858"
+         id="tspan554"
+         sodipodi:role="line">DMYV-Jugend</tspan><tspan
+         id="tspan556"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         y="352.50226"
+         x="558.35858"
+         sodipodi:role="line">Motorboot-Slalom</tspan><tspan
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan558"
+         y="397.50226"
+         x="558.35858"
+         sodipodi:role="line">Klasse 7</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot560"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(32.46755,225.851)"><flowRegion
+         id="flowRegion562"><rect
+           id="rect564"
+           width="195.59639"
+           height="100.73214"
+           x="308.0643"
+           y="1.8062121" /></flowRegion><flowPara
+         id="flowPara566" /></flowRoot>  </g>
   <g
      transform="translate(-32.46755,-225.851)"
      style="display:none"
      inkscape:label="Klasse A"
-     id="KlasseA"
+     id="g568"
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <text
-       id="text2729"
+       id="text570"
        y="307.50226"
        x="558.35858"
        style="font-size:36px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
@@ -2666,42 +2676,42 @@
          style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
          y="307.50226"
          x="558.35858"
-         id="tspan2731"
+         id="tspan572"
          sodipodi:role="line">DMYV-Jugend</tspan><tspan
-         id="tspan2165"
+         id="tspan574"
          style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
          y="352.50226"
          x="558.35858"
          sodipodi:role="line">Motorboot-Slalom</tspan><tspan
          style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle"
-         id="tspan2733"
+         id="tspan576"
          y="397.50226"
          x="558.35858"
          sodipodi:role="line">Klasse A</tspan></text>
     <text
-       id="text7135"
+       id="text578"
        y="821.35681"
        x="228.17746"
        style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
        xml:space="preserve"><tspan
-         id="tspan7139"
+         id="tspan580"
          y="821.35681"
          x="228.17746"
          sodipodi:role="line">Ablegen - Startlinie - Tonnentore 1 - 2 - 4 - 3 - 1 - Ziellinie - </tspan><tspan
-         id="tspan7141"
+         id="tspan582"
          y="843.85681"
          x="228.17746"
          sodipodi:role="line">anlegen und an der Klampe mit Kopfschlag belegen.</tspan></text>
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czcscss"
-       id="path2204"
+       id="path584"
        d="m 746.77065,615.18323 c 33,-33.94081 108.90064,-99.22988 15.11806,-104.01513 -92.78258,-4.78525 -247.99999,-10e-6 -248,0 0,0 -24.85871,-0.0124 -35.4375,26.53125 -14.24854,35.75163 -26.61614,65.82485 -42.40625,106.28125 -10.76155,26.69837 -10.77382,43.75001 -46.1875,44.25 -24.82478,0.3505 -88.43303,-76.20839 -159.78991,-85.19173"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssss"
-       id="path4510"
+       id="path586"
        d="m 159.02565,574.33982 c 23.28857,0 32.6558,9.70065 90.99484,22.40867 87.85475,19.13744 114.91369,73.92167 139.80572,73.41961 24.75072,-0.49921 230.35932,1.18918 248.0625,0.5 77.06214,-3 66.48088,-12.67569 108.88194,-55.48487"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
   </g>
@@ -2771,6 +2781,130 @@
        id="path3655"
        d="m 159.02565,574.33982 c 23.28857,0 63.15809,6.66565 119.69365,25.86636 35.52885,12.06637 75.9861,119.96471 110.83716,119.42351 34.85106,-0.5412 50.28168,-72.91901 56.9517,-115.24707 9.50848,-60.34098 11.58092,-157.69614 66.08488,-157.69614 54.50396,0 59.54082,85.05528 68.64497,129.41187 10.33813,50.36871 19.70447,143.53134 56.51293,143.53134 36.80846,0 45.76869,-85.69289 58.17144,-132.21763 13.71069,-51.43104 20.46624,-140.72558 66.27935,-140.72558 45.81311,0 32.12672,58.9357 45.87448,91.01287 12.31489,28.73389 36.84193,65.69748 52.99655,77.37573 16.15462,11.67825 13.9349,7.17461 24.80033,7.17461 17.71946,-10e-6 26.77459,-17.71367 40.04687,-17.71367 13.1155,0 27.21875,10.53906 27.21875,24.77374"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="Klasse7_Moewe_2014"
+     inkscape:label="Klasse 7 Möwe (2014)"
+     style="display:none"
+     transform="translate(-32.46755,-225.851)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 159.02565,574.33982 c 23.28856,0 83.66427,-10.64394 137.50876,39.35765 53.8445,50.00159 145.94999,90.11082 217.22248,105.93222 71.27249,15.8214 301.88789,-0.77205 352.30334,-13.01413 53.05826,-12.88382 95.42598,-40.6004 95.87078,-99.69587 C 962.80631,490.64111 948.22908,471.1945 915.79206,460.56851 767.4785,442.22622 517.97689,422.02585 463.561,467.85739 c -48.11998,54.24587 -126.89214,69.35273 -126.89214,43.22191 0,-23.51129 35.35534,-23.51129 35.35534,0 0,14.31891 4.22142,2.09671 -7.03963,39.74579 -11.26104,37.64907 -21.24464,103.4375 -21.24702,128.09191 -0.002,24.25332 21.96496,44.40808 46.07427,44.40808 24.10931,0 43.45188,-19.68751 43.45188,-44.375 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10931,0 -46.07189,18.02538 -46.07189,42.67979 0,24.65441 21.96258,44.40808 46.07189,44.40808 24.10931,0 43.60397,-20.12168 43.45188,-44.40808 -0.15209,-24.2864 4.61886,-65.71929 16.2996,-111.06333 11.68074,-45.19195 17.49434,-107.567 64.32525,-107.567 46.8287,0 56.07871,89.84214 61.62515,140.76081 6.90635,63.40327 -3.23141,114.22869 62.32465,118.58221 31.8177,0 57.46998,-16.85618 60.33975,-118.58221 1.56974,-55.64318 16.29005,-144.91003 64.02363,-144.91003 47.73358,0 53.76901,70.04373 64.51986,96.58741 15.29261,37.75725 27.36276,58.37628 39.30092,65.88575 11.93816,7.50947 33.35289,10.69915 46.62517,10.69915 13.1155,0 40.49103,-7.1217 40.49103,7.11298"
+       id="path3587"
+       sodipodi:nodetypes="czzssccsssszzzzzzzzscszszsc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:inline"
+       d="m 953.13871,636.42274 c 0,0 -169.98777,-0.18553 -134.44077,-0.18553 67.17515,0 40.66126,-4.80745 31.69077,-13.98752 -51.39729,-102.39157 -50.45932,-120.10755 -88.34666,-120.51305 -37.88734,-0.4055 -50.76933,84.33863 -55.55634,110.32488 -4.78701,25.98626 -25.98158,66.105 -68.64736,66.8121 -42.66578,0.7071 -57.30367,-21.40031 -68.74429,-64.82695 -11.44062,-43.42664 -17.19652,-111.53755 -55.33717,-112.31003 -38.14065,-0.77248 -44.95067,60.81987 -53.78368,97.15598 -21.05534,84.71043 -18.80345,86.22132 -70.41675,84.35656 -51.6133,-1.86476 -92.5059,-80.37148 -159.48891,-80.21031"
+       id="path3589"
+       sodipodi:nodetypes="csczzzzzczs"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:3.8;marker-start:none;marker-mid:url(#Arrow1Lstart);marker-end:none;display:none"
+       d="m 433.2637,678.95008 c 0,-24.68749 -19.34257,-42.71287 -43.45188,-42.71287 -24.10933,0 -46.07189,18.58788 -46.07189,42.71287 0,24.81582 21.24464,44.375 46.07189,44.375 24.81557,0 43.45188,-20.12168 43.45188,-44.375 z"
+       id="path3591"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;opacity:0.98999999;fill:#e6e6e6;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+       x="228.17746"
+       y="821.35681"
+       id="text3593"><tspan
+         id="tspan3602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         sodipodi:role="line"
+         x="228.17746"
+         y="821.35681">Ablegen - Startlinie - in den Parcours, d.h. innen durch die Tore 1 - 2 - 3 - 4 - rückwärts</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         sodipodi:role="line"
+         x="228.17746"
+         y="843.85681"
+         id="tspan3688">durch das Tor 5 - vorwärts wieder in den Parcours, d.h. außen um die Tore 4 - 3 - 2 -</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         sodipodi:role="line"
+         x="228.17746"
+         y="866.35681"
+         id="tspan3698">schnelle Umkreisung des Tores 1 (das Tor 1 bleibt an der Steuerbordseite!) -</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         sodipodi:role="line"
+         x="228.17746"
+         y="888.85681"
+         id="tspan3604">Schikane an der Tonne 6 - Temporunde: <tspan
+   style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+   id="tspan3606">außen</tspan> an den Toren 2 und 4, um die</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Verdana;-inkscape-font-specification:Verdana"
+         sodipodi:role="line"
+         x="228.17746"
+         y="911.35681"
+         id="tspan3608">Tonne 7 und außen an Tor 5 und 3 vorbei und innen durch das Tor 1 - Ziellinie - anlegen.</tspan></text>
+    <g
+       id="g3610"
+       transform="translate(17.76371,129.7306)">
+      <text
+         id="text3612"
+         y="429.87863"
+         x="717.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
+         xml:space="preserve"><tspan
+           y="429.87863"
+           x="717.09253"
+           id="tspan3614"
+           sodipodi:role="line">Tempo -</tspan></text>
+      <text
+         id="text3616"
+         y="432.81418"
+         x="834.09253"
+         style="font-size:13px;font-style:normal;font-weight:bold;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana"
+         xml:space="preserve"><tspan
+           y="432.81418"
+           x="834.09253"
+           id="tspan3618"
+           sodipodi:role="line">Runde</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+       x="558.35858"
+       y="307.50226"
+       id="text3620"><tspan
+         sodipodi:role="line"
+         id="tspan3622"
+         x="558.35858"
+         y="307.50226"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold">DMYV-Jugend</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="352.50226"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold"
+         id="tspan3624">Motorboot-Slalom</tspan><tspan
+         sodipodi:role="line"
+         x="558.35858"
+         y="397.50226"
+         id="tspan3626"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold">Klasse 7</tspan></text>
+    <flowRoot
+       transform="translate(32.46755,225.851)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot3628"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3630"><rect
+           y="1.8062121"
+           x="308.0643"
+           height="100.73214"
+           width="195.59639"
+           id="rect3632" /></flowRegion><flowPara
+         id="flowPara3634" /></flowRoot>    <text
+       transform="matrix(0.8660253,-0.50000017,0.50000017,0.8660253,0,0)"
+       id="text2735-7"
+       y="453.01675"
+       x="-52.668709"
+       style="font-size:27.99997139px;font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana"
+       xml:space="preserve"><tspan
+         y="453.01675"
+         x="-52.668705"
+         id="tspan2737-4"
+         sodipodi:role="line">Möwe-Parcour</tspan></text>
   </g>
   <g
      transform="translate(-32.46755,-225.851)"
