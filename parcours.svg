@@ -2521,18 +2521,7 @@
          y="397.50226"
          x="558.35858"
          sodipodi:role="line">Klasse 7</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3439"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(32.46755,225.851)"><flowRegion
-         id="flowRegion3441"><rect
-           id="rect3443"
-           width="195.59639"
-           height="100.73214"
-           x="308.0643"
-           y="1.8062121" /></flowRegion><flowPara
-         id="flowPara3445" /></flowRoot>    <text
+    <text
        transform="matrix(0.8660253,-0.50000017,0.50000017,0.8660253,0,0)"
        id="text2735-7-9"
        y="453.01675"
@@ -2650,18 +2639,7 @@
          y="397.50226"
          x="558.35858"
          sodipodi:role="line">Klasse 7</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot560"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(32.46755,225.851)"><flowRegion
-         id="flowRegion562"><rect
-           id="rect564"
-           width="195.59639"
-           height="100.73214"
-           x="308.0643"
-           y="1.8062121" /></flowRegion><flowPara
-         id="flowPara566" /></flowRoot>  </g>
+  </g>
   <g
      transform="translate(-32.46755,-225.851)"
      style="display:none"
@@ -2885,18 +2863,7 @@
          y="397.50226"
          id="tspan3626"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Verdana;-inkscape-font-specification:Verdana Bold">Klasse 7</tspan></text>
-    <flowRoot
-       transform="translate(32.46755,225.851)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       id="flowRoot3628"
-       xml:space="preserve"><flowRegion
-         id="flowRegion3630"><rect
-           y="1.8062121"
-           x="308.0643"
-           height="100.73214"
-           width="195.59639"
-           id="rect3632" /></flowRegion><flowPara
-         id="flowPara3634" /></flowRoot>    <text
+    <text
        transform="matrix(0.8660253,-0.50000017,0.50000017,0.8660253,0,0)"
        id="text2735-7"
        y="453.01675"
