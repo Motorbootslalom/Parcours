@@ -133,7 +133,7 @@ Die Parcous Zeichnungen von <a xmlns:cc="http://creativecommons.org/ns#" href="h
 
 ## Anpassungen für andere Vereine
 
-### Anpassungen für den WSC "Möwe" Oranienburg e.V.
+### Anpassungen für den [WSC "Möwe" Oranienburg e.V.](http://www.moewejugend.de)
 
 ![Klasse 5](https://cdn.rawgit.com/Schlauchbootslalom/Parcours/master/dist/steg_oben/Klasse5_Moewe.svg)
 ![Klasse 6](https://cdn.rawgit.com/Schlauchbootslalom/Parcours/master/dist/steg_oben/Klasse6_Moewe.svg)
