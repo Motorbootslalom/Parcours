@@ -140,4 +140,29 @@ Die Parcous Zeichnungen von <a xmlns:cc="http://creativecommons.org/ns#" href="h
 ![Klasse 7](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/dist/steg_oben/Klasse7_Moewe.svg)
 
 
+## Übersicht für Wertungslisten
+### Alcatraz I
+![Klasse E](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_E.png)
+![Klasse 1](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_1.png)
+![Klasse 2](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_2.png)
+![Klasse 3](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_3.png)
+![Klasse 4](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_4.png)
+![Klasse 5](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_5.png)
+![Klasse 6](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_6.png)
+![Klasse 7](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_7.png)
+![Klasse 5 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_5_Möwe.png)
+![Klasse 6 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_6_Möwe.png)
+![Klasse 7 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_1_Klasse_7_Möwe.png)
 
+### Alcatraz II
+![Klasse E](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_E.png)
+![Klasse 1](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_1.png)
+![Klasse 2](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_2.png)
+![Klasse 3](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_3.png)
+![Klasse 4](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_4.png)
+![Klasse 5](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_5.png)
+![Klasse 6](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_6.png)
+![Klasse 7](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_7.png)
+![Klasse 5 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_5_Möwe.png)
+![Klasse 6 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_6_Möwe.png)
+![Klasse 7 Möwe](https://cdn.rawgit.com/Motorbootslalom/Parcours/master/Alcatraz/Alcatraz_2_Klasse_7_Möwe.png)
