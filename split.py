@@ -93,14 +93,13 @@ def splitAlcatraz(klassen, plain_svg):
                     newsvg.remove(child)
                 if child.attrib['id'].startswith('steg'):
                     newsvg.remove(child)
-            labels = newsvg.findall(".//*[@id='bezeichnung']")
+            labels = newsvg.findall(".//*[@id='abmessung']")
+            labels.extend(newsvg.findall(".//*[@id='bezeichnung']"))
+            for alc in alcatraz[1]:
+                labels.extend(newsvg.findall(
+                    ".//*[@id='Alcatraz_{}']".format(alc)))
             for label in labels:
                 label.clear()
-            for alc in alcatraz[1]:
-                labels = newsvg.findall(
-                    ".//*[@id='Alcatraz_{}']".format(alc))
-                for label in labels:
-                    label.clear()
             exportToNewDestination(newsvg, 'dist/alcatraz_{}/{}'.format(
                 alcatraz[0], klasse), '--export-id Export_Area -b FFFFFF')
 
