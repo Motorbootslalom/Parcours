@@ -198,6 +198,7 @@ def split_alcatraz(klassen, plain_svg, dist_base):
                 "arrows",
                 "metadata",
                 "Parcours",
+                "ParcoursLabel",
                 "Export_Area",
                 "SpeedbojeKlasse7",
             }
