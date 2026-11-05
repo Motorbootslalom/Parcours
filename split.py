@@ -175,8 +175,9 @@ def split_parcours(stege, klassen, plain_svg, lang, dirs, dist_base):
                 f"ParcoursLabel{lang_upper}",
                 f"{steg}{lang_upper}",
             }
+            # Die untere Speedboje fährt nur Klasse 7.
             if klasse.endswith("7"):
-                include.add("SpeedbojeKlasse7")
+                include.add("Speedboje_unten")
             newtree = ET.parse(plain_svg)
             newsvg = newtree.getroot()
             for el in newsvg.findall(".//*[@style]"):
@@ -200,7 +201,7 @@ def split_alcatraz(klassen, plain_svg, dist_base):
                 "Parcours",
                 "ParcoursLabel",
                 "Export_Area",
-                "SpeedbojeKlasse7",
+                "Speedboje_unten",
             }
             newtree = ET.parse(plain_svg)
             newsvg = newtree.getroot()
