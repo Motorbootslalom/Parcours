@@ -28,6 +28,9 @@ LANGUAGES = {
     },
 }
 
+# Die untere Speedboje (8) zeigen nur die Klassen, deren Route um sie herumführt.
+SPEEDBOJE_2_KLASSEN = {"Klasse7", "Klasse7_rc1", "Klasse7_rc2"}
+
 
 def embed_images(svg):
     xlink = "{http://www.w3.org/1999/xlink}href"
@@ -175,8 +178,7 @@ def split_parcours(stege, klassen, plain_svg, lang, dirs, dist_base):
                 f"ParcoursLabel{lang_upper}",
                 f"{steg}{lang_upper}",
             }
-            # Die untere Speedboje fährt nur Klasse 7.
-            if klasse.endswith("7"):
+            if klasse in SPEEDBOJE_2_KLASSEN:
                 include.add("Speedboje_unten")
             newtree = ET.parse(plain_svg)
             newsvg = newtree.getroot()
@@ -201,8 +203,9 @@ def split_alcatraz(klassen, plain_svg, dist_base):
                 "Parcours",
                 "ParcoursLabel",
                 "Export_Area",
-                "Speedboje_unten",
             }
+            if klasse in SPEEDBOJE_2_KLASSEN:
+                keep.add("Speedboje_unten")
             newtree = ET.parse(plain_svg)
             newsvg = newtree.getroot()
             for el in newsvg.findall(".//*[@style]"):
