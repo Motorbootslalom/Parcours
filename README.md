@@ -2,9 +2,9 @@
 
 [English version](README.en.md) | [Parallel Slalom](README.parallel.md) | [Übersicht für Wertungslisten (Alcatraz)](README.alcatraz.md)
 
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Die Parcours-Zeichnungen von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Motorbootslalom/Parcours" property="cc:attributionName" rel="cc:attributionURL">Matthias Kerk</a> sind lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>.
+Die Parcours-Zeichnungen von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Motorbootslalom/Parcours" property="cc:attributionName" rel="cc:attributionURL">Matthias Kerk</a> sind lizenziert unter einer <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz (CC BY-NC-SA 4.0)</a>.
 
 ![leerer Parcours](dist/de/Parcours.svg)
 
