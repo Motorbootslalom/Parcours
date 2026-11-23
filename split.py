@@ -31,6 +31,15 @@ LANGUAGES = {
 # Die untere Speedboje (8) zeigen nur die Klassen, deren Route um sie herumführt.
 SPEEDBOJE_2_KLASSEN = {"Klasse7", "Klasse7_rc1", "Klasse7_rc2"}
 
+# Parallel-Slalom: Alles, was zu einer Bahn gehört, trägt deren Buchstaben vorn in der ID
+# (A_Boje1, B_StartZiel, …; A = obere Bahn der Zeichnung). Die Ausgabe für Wertungslisten
+# zeigt nur Bahn A: Die Zeichnung ist schematisch – wie die Bahnen und der Steg zueinander
+# liegen, ist an jedem Ort anders, und für die Eintragung genügt eine Bahn (23.11.2026).
+PARALLEL_BAHN = "A"
+PARALLEL_ANDERE_BAHN = "B"
+# Was die Ausgabe einer Bahn außerdem weglässt: Maße, Titel und Beschreibung.
+PARALLEL_OHNE = {"abmessung", "Titel", "Beschreibung"}
+
 
 def embed_images(svg):
     xlink = "{http://www.w3.org/1999/xlink}href"
@@ -158,6 +167,9 @@ def main(parcours_file):
     # Alcatraz nur wenn Export_Area vorhanden und deutsche Klassen existieren
     if has_export_area and klassen_per_lang["de"]:
         split_alcatraz(klassen_per_lang["de"], plain_svg, dist_base)
+    elif has_export_area and not has_klassen:
+        # Parallel-Slalom: eine Bahn ohne Steg für Wertungslisten und Geräte
+        split_alcatraz_bahn(extra_layers + ["Parcours"], plain_svg, dist_base)
 
     os.remove(plain_svg)
 
@@ -225,6 +237,51 @@ def split_alcatraz(klassen, plain_svg, dist_base):
                 f"{dist_base}/alcatraz_{name}/{klasse}",
                 "--export-id Export_Area -b FFFFFF",
             )
+
+
+def split_alcatraz_bahn(klassen, plain_svg, dist_base):
+    """Eine Bahn des Parallel-Slaloms (PARALLEL_BAHN) ohne Steg, Logo, Titel, Maße und
+    sprachabhängige Beschriftung – wie die Alcatraz-Bilder der Klassen nur der Parcours.
+    Ausgeschnitten wird die Fläche des Rahmens <Bahn>_Export_Area (Ebene Export_Area)."""
+    rahmen_id = f"{PARALLEL_BAHN}_Export_Area"
+    for klasse in klassen:
+        keep = {
+            klasse,
+            "arrows",
+            "metadata",
+            "Parcours",
+            "ParcoursLabel",
+            "Export_Area",
+        }
+        newtree = ET.parse(plain_svg)
+        newsvg = newtree.getroot()
+        for el in newsvg.findall(".//*[@style]"):
+            el.attrib["style"] = el.attrib["style"].replace(
+                "display:none", "display:inline"
+            )
+        for child in list(newsvg):
+            if child.attrib["id"] not in keep:
+                newsvg.remove(child)
+        eltern = {kind: el for el in newsvg.iter() for kind in el}
+        weg = [
+            el for el in newsvg.iter()
+            if el.get("id", "").startswith(f"{PARALLEL_ANDERE_BAHN}_")
+            or el.get("id") in PARALLEL_OHNE
+        ]
+        for el in weg:
+            eltern[el].remove(el)
+        # Der Rahmen bestimmt nur die Fläche; gezeichnet wird er nicht (anders als
+        # bei den Klassen, wo die App ihn wieder entfernen muss).
+        rahmen = newsvg.find(f".//*[@id='{rahmen_id}']")
+        if rahmen is None:
+            print(f"Fehler: {rahmen_id} fehlt", file=sys.stderr)
+            sys.exit(1)
+        rahmen.set("style", "fill:none;stroke:none")
+        export_to_destination(
+            newsvg,
+            f"{dist_base}/alcatraz_Parcours/{klasse}",
+            f"--export-id {rahmen_id} -b FFFFFF",
+        )
 
 
 if __name__ == "__main__":
